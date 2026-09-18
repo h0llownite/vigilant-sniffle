@@ -14,6 +14,7 @@ credits: true
 
 ## About the Collection
 
+Gordon is using this as a demo to better understand CollectionBuilder so that they can make a judgement call on what site would be best. It is also a great refresher on their coding knowledge.
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
 - a CSV of collection metadata
